@@ -1,0 +1,79 @@
+2021-07-08 13:45:57 INFO WMQJCAResourceAdapter: 0] =>>>GenericMessageDrivenBean - start()<Envelope><Header><CommonInfo><Source>OTP</Source><Service>SMSSrv</Service></CommonInfo>
+</Header><Body><SMSSrv><Mobile><CountryCode>61</CountryCode><Num>0420742903</Num>
+</Mobile><Source>IBNK</Source><RefNum>6266342</RefNum><RefNum2>1</RefNum2>
+<Bank>STG</Bank><GCISCustNum>11181855</GCISCustNum><SMSMsg>Your Secure Code is 494244 to add
+Payee with BB:062-013 Account:424242454. Never share this code.</SMSMsg></SMSSrv></Body></Envelope>
+(au.com.stgeorge.sms.integration.impl.listener.GenericMessageDrivenBean)
+===
+2021-07-02 15:06:41:806 INFO [WMQJCAResourceAdapter: 29] =>getAlertsByAccountNumber START Alert ID:0
+App ID :CRA Acc Num :4601841000532921 Acc Type :null Type :0 GCIS null
+(au.com.stgeorge.sms.business.ProfileManagerlmpl)
+===
+2021-07-08 13:45:57 INFO WMQJCAResourceAdapter: 0] =>>>GenericMessageDrivenBean - start()<Envelope><Header><CommonInfo><Source>OTP</Source><Service>SMSSrv</Service></CommonInfo>
+</Header><Body><SMSSrv><Mobile><CountryCode>61</CountryCode><Num>0420742903</Num>
+</Mobile><Source>IBNK</Source><RefNum>6266342</RefNum><RefNum2>1</RefNum2><Acctkey>1234567890987654</Acctkey>
+<Bank>STG</Bank><GCISCustNum>11181855</GCISCustNum><SMSMsg>Your Secure Code is 494244 to add
+Payee with BB:062-013 Account:424242454. Never share this code.</SMSMsg></SMSSrv></Body></Envelope>
+(au.com.stgeorge.sms.integration.impl.listener.GenericMessageDrivenBean)
+===
+2021-07-02 14:57:54:456 INFO [WMQJCAResourceAdapter: 4] =>srvName :AlertTriggerSrv request :<Envelope>
+<Header><Commoninfo><Source>ODS</Source><SourceBranch><Num>0</Num></SourceBranch>
+<Service>AlertTriggerSrv</Service></CommonInfo></Header><Body><AlertTriggerSr>
+<Applid>CRA</Applid><AcctNum><AcctKey>4601841000280711</AcctKey></AcctNum>
+<AvailBal>5599.20</AvailBal><CurrBal>9348.30</CurrBal><ODLim>0.00</ODLim>
+<FloatAmt>0.00</FloatAmt><ShortName>Priyesh Dave</ShortName><TransType>AU</TransType><TranEffDate>
+<Day>02</Day><Month>07</Month><Year>2021</Year></TranEffDate><TranEffTime><Hour>14</Hour>
+<Min>57</Min><Sec>54</Sec></TranEffTime><TranAmt>52.50</TranAmt><TranDesc1>TRML= W1364081
+20210702</TranDesc1><TranDesc2>WOOLWORTHS/BEECROFTRDBEECROFTAU</TranDesc2>
+<SchedulePymtind>N</SchedulePymtInd><Brand></Brand></AlertTriggerSrv></Body></Envelope>response:<Envelope><Body><AlertTriggerSrvResp><Code><Code>000</Code><Desc>The request was
+successfully performed</Desc></Code></AlertTriggerSrvResp></Body></Envelope>
+(au.com.stgeorge.sms.integration.IntegrationManager)
+===
+2021-07-02 16:10:35:457 INFO [WMQJCAResourceAdapter : 16] =>>>GenericMessageDrivenBean - start@
+<Envelope><Header><CommonInfo><Source>INK</Source><Service><SMSSrv></Service></Commoninfo>
+</Header><Body><SMSSrv><Mobile><CountryCode>61</CountryCode><Num>0420312318</Num>
+</Mobile><Source>FLX></Source><RefNum>1625206235425</RefNum><Bank>FLX</Bank>
+<GCISCustNum>55852816</GCISCustNum><SMSMsg>Your temporary security number is 1200. You will be
+prompted to change your security number and password upon logon to St.George Internet &amp;
+Mobile Banking.</SMSMsg></SMSSrv></Body></Envelope>
+(au.com.stgeorge.sms.integration.impl.listener.GenericMessageDrivenBean)
+===
+2021-07-08 13:45:57 INFO WMQJCAResourceAdapter: 0] =>>>GenericMessageDrivenBean - start()<Envelope><Header><CommonInfo><Source>OTP</Source><Service>SMSSrv</Service></CommonInfo>
+</Header><Body><SMSSrv><Mobile><CountryCode>61</CountryCode><Num>0420742903</Num>
+</Mobile><Source>IBNK</Source><RefNum>6266342</RefNum><RefNum2>1</RefNum2>
+<Bank>STG</Bank><GCISCustNum>11181855</GCISCustNum><SMSMsg>Your Secure Code is 494244 to add
+Payee with BB:062-013 Account:424242454. Never share this code.</SMSMsg></SMSSrv></Body></Envelope>
+(au.com.stgeorge.sms.integration.impl.listener.GenericMessageDrivenBean)
+===
+2021-07-02 15:06:41:806 INFO [WMQJCAResourceAdapter: 29] =>getAlertsByAccountNumber START Alert ID:0
+App ID :CRA Acc Num :4601841000532921 Acc Type :null Type :0 GCIS null
+(au.com.stgeorge.sms.business.ProfileManagerlmpl)
+===
+2021-07-08 13:45:57 INFO WMQJCAResourceAdapter: 0] =>>>GenericMessageDrivenBean - start()<Envelope><Header><CommonInfo><Source>OTP</Source><Service>SMSSrv</Service></CommonInfo>
+</Header><Body><SMSSrv><Mobile><CountryCode>61</CountryCode><Num>0420742903</Num>
+</Mobile><Source>IBNK</Source><RefNum>6266342</RefNum><RefNum2>1</RefNum2><Acctkey>1234567890987654</Acctkey>
+<Bank>STG</Bank><GCISCustNum>11181855</GCISCustNum><SMSMsg>Your Secure Code is 494244 to add
+Payee with BB:062-013 Account:424242454. Never share this code.</SMSMsg></SMSSrv></Body></Envelope>
+(au.com.stgeorge.sms.integration.impl.listener.GenericMessageDrivenBean)
+===
+2021-07-02 14:57:54:456 INFO [WMQJCAResourceAdapter: 4] =>srvName :AlertTriggerSrv request :<Envelope>
+<Header><Commoninfo><Source>ODS</Source><SourceBranch><Num>0</Num></SourceBranch>
+<Service>AlertTriggerSrv</Service></CommonInfo></Header><Body><AlertTriggerSr>
+<Applid>CRA</Applid><AcctNum><AcctKey>4601841000280711</AcctKey></AcctNum>
+<AvailBal>5599.20</AvailBal><CurrBal>9348.30</CurrBal><ODLim>0.00</ODLim>
+<FloatAmt>0.00</FloatAmt><ShortName>Priyesh Dave</ShortName><TransType>AU</TransType><TranEffDate>
+<Day>02</Day><Month>07</Month><Year>2021</Year></TranEffDate><TranEffTime><Hour>14</Hour>
+<Min>57</Min><Sec>54</Sec></TranEffTime><TranAmt>52.50</TranAmt><TranDesc1>TRML= W1364081
+20210702</TranDesc1><TranDesc2>WOOLWORTHS/BEECROFTRDBEECROFTAU</TranDesc2>
+<SchedulePymtind>N</SchedulePymtInd><Brand></Brand></AlertTriggerSrv></Body></Envelope>response:<Envelope><Body><AlertTriggerSrvResp><Code><Code>000</Code><Desc>The request was
+successfully performed</Desc></Code></AlertTriggerSrvResp></Body></Envelope>
+(au.com.stgeorge.sms.integration.IntegrationManager)
+===
+2021-07-02 16:10:35:457 INFO [WMQJCAResourceAdapter : 16] =>>>GenericMessageDrivenBean - start@
+<Envelope><Header><CommonInfo><Source>INK</Source><Service><SMSSrv></Service></Commoninfo>
+</Header><Body><SMSSrv><Mobile><CountryCode>61</CountryCode><Num>0420312318</Num>
+</Mobile><Source>FLX></Source><RefNum>1625206235425</RefNum><Bank>FLX</Bank>
+<GCISCustNum>55852816</GCISCustNum><SMSMsg>Your temporary security number is 1200. You will be
+prompted to change your security number and password upon logon to St.George Internet &amp;
+Mobile Banking.</SMSMsg></SMSSrv></Body></Envelope>
+(au.com.stgeorge.sms.integration.impl.listener.GenericMessageDrivenBean)
